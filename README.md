@@ -11,3 +11,4 @@
 1) Alguns métodos mais "avançados" de estatística estão em [Permutation](https://github.com/Values-and-Beliefs-IDOR-Unit/Materiais-Estudo/blob/05f22e620f76a6e8f353e8fed29e7d34a5ee6bf4/Permutation.md) e [Bayesian Analysis](https://github.com/Values-and-Beliefs-IDOR-Unit/Materiais-Estudo/blob/05f22e620f76a6e8f353e8fed29e7d34a5ee6bf4/Bayesian.md)
 1) Para quem estiver interessado, há alguns materiais aqui sobre [NLP](https://github.com/Values-and-Beliefs-IDOR-Unit/Materiais-Estudo/blob/05f22e620f76a6e8f353e8fed29e7d34a5ee6bf4/NLP.md)
 1) Para quem irá trabalhar com [fMRI](https://github.com/Values-and-Beliefs-IDOR-Unit/Materiais-Estudo/blob/05f22e620f76a6e8f353e8fed29e7d34a5ee6bf4/fMRI.md), essa lista tem vários materiais introdutórios e mais avançados também
+1) Materiais sobre processamento de dados de [fisiologia periférica]
