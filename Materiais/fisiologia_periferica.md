@@ -1,6 +1,6 @@
 # Some Material on Peripheral Physiology Analysis
 
-## [NeuroKit](https://github.com/rpanderson/NeuroKit](https://github.com/neuropsychology/NeuroKit)
+## [NeuroKit](https://github.com/neuropsychology/NeuroKit)
 NeuroKit is an open-source Python package providing easy-to-use, state-of-the-art, and comprehensive functions to process and analyze neurophysiological data. It supports various physiological signals, including ECG, EDA, EMG, and EEG, and offers advanced features like signal pre-processing, event-related analysis, and heart rate variability computation.
 
 *It has nice tutorials on different signal processing with example datasets as well as basic introduction to the different types of signals*
